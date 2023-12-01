@@ -4,3 +4,7 @@ venvv/
 
 # Input
 input/day1_calibration.txt
+
+# Editor stuff
+/.idea
+/.vscode

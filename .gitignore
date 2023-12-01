@@ -1,0 +1,6 @@
+# (Virtual) Environment
+venvv/
+.env
+
+# Input
+input/day1_calibration.txt
